@@ -42,4 +42,10 @@ square(-8)      # Вывод: 64
 3. "Adding a ToBase.py" — `3a15c0e`
 4. "I created a docs folder and uploaded the documentation" — `e6d6a24`
 5. "Changed the README formatting to markdown" — `6c1d468`
+6. "The documentation in .md format has been uploaded to the folder" — `3d7a57c`
+7. "Changed the README formatting to markdown #2" — `5231e5a`
+8. "Changed the README formatting to markdown #3" — `82c725c`
+9. "Changed the README formatting to markdown #4" — `6ee648f`
+10. "Changed the documentacia formatting to markdown #2" — `b472d38`
+11. "Delete docs/documentacia.txt" — `9d1cb9e`
 ```
